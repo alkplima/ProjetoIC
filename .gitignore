@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # Arquivos maior que 100MB (apenas 2)
-./Packages/com.github.homuler.mediapipe/Runtime/Plugins/Android/mediapipe_android.aar
-./Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld
+Packages/com.github.homuler.mediapipe/Runtime/Plugins/Android/mediapipe_android.aar
+Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld
