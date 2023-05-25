@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scenes/InitialScreen.unity
+    guid: 3afbe74cc6935fb2ab954d0e798420a3
+  - enabled: 1
+    path: Assets/_Scenes/HandTrackingScene.unity
+    guid: 0a107b5750dba8c24a5330bce18e945f
+  - enabled: 1
+    path: Assets/_Scenes/CalibrationScene.unity
+    guid: 6eaa5e0820a064077ba1b5c84ccf0eca
+  - enabled: 1
+    path: Assets/_Scenes/BuilderScreen.unity
+    guid: 64bd84e811175b6a5b083e0b5dad31b6
+  m_configObjects: {}
