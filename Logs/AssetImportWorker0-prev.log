@@ -20,13 +20,13 @@ Unity
 -name
 AssetImportWorker0
 -projectPath
-/home/alkplima/Downloads/Projeto-IC-master
+/home/alkplima/Downloads/Projeto-IC
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-42727
-Successfully changed project path to: /home/alkplima/Downloads/Projeto-IC-master
-/home/alkplima/Downloads/Projeto-IC-master
+37345
+Successfully changed project path to: /home/alkplima/Downloads/Projeto-IC
+/home/alkplima/Downloads/Projeto-IC
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -56,15 +56,15 @@ Successfully changed project path to: /home/alkplima/Downloads/Projeto-IC-master
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [140427701437312] Host "[IP] 192.168.5.195 [Port] 0 [Flags] 2 [Guid] 1133973482 [EditorId] 1133973482 [Version] 1048832 [Id] LinuxEditor(16,192.168.5.195) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [140654752535424] Host "[IP] 192.168.5.195 [Port] 0 [Flags] 2 [Guid] 3134942149 [EditorId] 3134942149 [Version] 1048832 [Id] LinuxEditor(16,192.168.5.195) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [140427701437312] Host "[IP] 192.168.5.195 [Port] 0 [Flags] 2 [Guid] 1133973482 [EditorId] 1133973482 [Version] 1048832 [Id] LinuxEditor(16,192.168.5.195) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [140654752535424] Host "[IP] 192.168.5.195 [Port] 0 [Flags] 2 [Guid] 3134942149 [EditorId] 3134942149 [Version] 1048832 [Id] LinuxEditor(16,192.168.5.195) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 225,98 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 129,35 ms.
+Refreshing native plugins compatible for Editor in 222,04 ms, found 2 plugins.
+Preloading 1 native plugins for Editor in 153,15 ms.
 Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
 [Subsystems] Discovering subsystems at path /home/alkplima/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /home/alkplima/Downloads/Projeto-IC-master/Assets
+[Subsystems] Discovering subsystems at path /home/alkplima/Downloads/Projeto-IC/Assets
 GLX Extensions: GLX_ARB_context_flush_control GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
 Renderer: Mesa Intel(R) Xe Graphics (TGL GT2)
 Vendor:   Intel
@@ -76,99 +76,99 @@ int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program
 L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
 t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture
 _shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -2117181584
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -241991680
 ../src/intel/isl/isl.c:2216: FINISHME: ../src/intel/isl/isl.c:isl_surf_supports_ccs: CCS for 3D textures is disabled, but a workaround is available.
 Initialize mono
 Mono path[0] = '/home/alkplima/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed'
 Mono path[1] = '/home/alkplima/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux'
 Mono config path = '/home/alkplima/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56789
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56806
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /home/alkplima/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: /home/alkplima/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0,010365 seconds.
+Registered in 0,013440 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 418 ms
-Refreshing native plugins compatible for Editor in 222,94 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,10 ms.
+Android Extension - Scanning For ADB Devices 366 ms
+Refreshing native plugins compatible for Editor in 264,18 ms, found 2 plugins.
+Preloading 1 native plugins for Editor in 0,13 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1,858 seconds
+- Completed reload, in  1,766 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1859ms)
-		BeginReloadAssembly (95ms)
+	ReloadAssembly (1767ms)
+		BeginReloadAssembly (107ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (1547ms)
-			LoadAssemblies (93ms)
+		EndReloadAssembly (1424ms)
+			LoadAssemblies (104ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (232ms)
+			SetupTypeCache (212ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (1154ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (1056ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (578ms)
+				InitializePlatformSupportModulesInManaged (530ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (223ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (234ms)
-				ProcessInitializeOnLoadMethodAttributes (115ms)
+				RefreshPlugins (264ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (175ms)
+				ProcessInitializeOnLoadMethodAttributes (83ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0,013952 seconds.
+Registered in 0,010203 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for LinuxStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 226,94 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,14 ms.
+Refreshing native plugins compatible for Editor in 224,31 ms, found 2 plugins.
+Preloading 1 native plugins for Editor in 0,10 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2,785 seconds
+- Completed reload, in  2,644 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2787ms)
-		BeginReloadAssembly (194ms)
+	ReloadAssembly (2646ms)
+		BeginReloadAssembly (170ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (11ms)
+			DisableScriptedObjects (12ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (37ms)
-		EndReloadAssembly (2362ms)
-			LoadAssemblies (133ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (2239ms)
+			LoadAssemblies (110ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (627ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (146ms)
-			SetupLoadedEditorAssemblies (1286ms)
+			SetupTypeCache (539ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (133ms)
+			SetupLoadedEditorAssemblies (1297ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (39ms)
+				InitializePlatformSupportModulesInManaged (38ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (227ms)
-				BeforeProcessingInitializeOnLoad (209ms)
-				ProcessInitializeOnLoadAttributes (709ms)
-				ProcessInitializeOnLoadMethodAttributes (86ms)
-				AfterProcessingInitializeOnLoad (15ms)
+				RefreshPlugins (224ms)
+				BeforeProcessingInitializeOnLoad (247ms)
+				ProcessInitializeOnLoadAttributes (703ms)
+				ProcessInitializeOnLoadMethodAttributes (70ms)
+				AfterProcessingInitializeOnLoad (14ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 1,34 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,19 ms.
+Refreshing native plugins compatible for Editor in 1,45 ms, found 2 plugins.
+Preloading 1 native plugins for Editor in 0,11 ms.
 Unloading 4525 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 49 unused Assets / (101,5 KB). Loaded Objects now: 5002.
-Memory consumption went from 190,1 MB to 190,0 MB.
-Total: 10,186982 ms (FindLiveObjects: 0,863416 ms CreateObjectMapping: 0,533638 ms MarkObjects: 8,196153 ms  DeleteObjects: 0,590495 ms)
+Unloading 45 unused Assets / (43,1 KB). Loaded Objects now: 5006.
+Memory consumption went from 190,2 MB to 190,1 MB.
+Total: 7,956816 ms (FindLiveObjects: 0,484498 ms CreateObjectMapping: 0,413200 ms MarkObjects: 6,717866 ms  DeleteObjects: 0,337718 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -181,446 +181,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 1572,653007 seconds.
+  Time since last request: 4161,989443 seconds.
   path: Assets/Tiles/BuildingObjects/YellowCoinSpriteSheet.png
   artifactKey: Guid(b37f67cfd790d54049c07513cad53d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/YellowCoinSpriteSheet.png using Guid(b37f67cfd790d54049c07513cad53d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c1fa61b7ba91e75e474d4e05f566a10') in 0,232337 seconds 
+Start importing Assets/Tiles/BuildingObjects/YellowCoinSpriteSheet.png using Guid(b37f67cfd790d54049c07513cad53d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd81e647fedbd93cf1893272b12a026') in 0,332502 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000036 seconds.
-  path: Assets/Tiles/BuildingObjects/BlueCoinSpriteSheet.png
-  artifactKey: Guid(14c3f06066eb0c89aa6377381e772394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/BlueCoinSpriteSheet.png using Guid(14c3f06066eb0c89aa6377381e772394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa4a78ce6cba65667f824338d519e9d') in 0,062189 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9,917249 seconds.
+  Time since last request: 16,614748 seconds.
   path: Assets/Tiles/BuildingObjects/GreenCoinSpriteSheet.png
   artifactKey: Guid(ad0d9b4cd12be4ccda71514b7e73d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/GreenCoinSpriteSheet.png using Guid(ad0d9b4cd12be4ccda71514b7e73d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19bbe9a2de9b57936c5987d5618bf767') in 0,075513 seconds 
+Start importing Assets/Tiles/BuildingObjects/GreenCoinSpriteSheet.png using Guid(ad0d9b4cd12be4ccda71514b7e73d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ccec5f83b7afc878217855c7c0696e') in 0,169833 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 24,006264 seconds.
+  Time since last request: 4,203648 seconds.
   path: Assets/Tiles/BuildingObjects/BlueCoinSpriteSheet.png
   artifactKey: Guid(14c3f06066eb0c89aa6377381e772394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/BlueCoinSpriteSheet.png using Guid(14c3f06066eb0c89aa6377381e772394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bae7f2c2551060fd3dd2952bf44428f3') in 0,011168 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 104,376085 seconds.
-  path: Assets/Tiles/BuildingObjects/BlueCoinSpriteSheet.png
-  artifactKey: Guid(14c3f06066eb0c89aa6377381e772394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/BlueCoinSpriteSheet.png using Guid(14c3f06066eb0c89aa6377381e772394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b3f546a51e9670e467de5e9c93d1ac1') in 0,109711 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 30,845306 seconds.
-  path: Assets/Tiles/BuildingObjects/GreenCoinSpriteSheet.png
-  artifactKey: Guid(ad0d9b4cd12be4ccda71514b7e73d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/GreenCoinSpriteSheet.png using Guid(ad0d9b4cd12be4ccda71514b7e73d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e19f476ba99f287b0fc666fa8ac19679') in 0,008764 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 27,964442 seconds.
-  path: Assets/Tiles/BuildingObjects/GreenCoinSpriteSheet.png
-  artifactKey: Guid(ad0d9b4cd12be4ccda71514b7e73d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/GreenCoinSpriteSheet.png using Guid(ad0d9b4cd12be4ccda71514b7e73d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '636a323a49e8f398daed5a292748dbf4') in 0,109941 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 38,452340 seconds.
-  path: Assets/Tiles/BuildingObjects/YellowCoinSpriteSheet.png
-  artifactKey: Guid(b37f67cfd790d54049c07513cad53d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/YellowCoinSpriteSheet.png using Guid(b37f67cfd790d54049c07513cad53d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7db374aaed45c3e5fcc0dbcc7e4ca0b') in 0,013456 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4,272489 seconds.
-  path: Assets/Tiles/BuildingObjects/YellowCoinSpriteSheet.png
-  artifactKey: Guid(b37f67cfd790d54049c07513cad53d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/YellowCoinSpriteSheet.png using Guid(b37f67cfd790d54049c07513cad53d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f736e21f10efb59a5c7672cf7ae4331b') in 0,140093 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 223,508422 seconds.
-  path: Assets/Tiles/BuildingObjects/Moeda.asset
-  artifactKey: Guid(cb6b7b2674c1d5564addc8a10781fa10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/Moeda.asset using Guid(cb6b7b2674c1d5564addc8a10781fa10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180447aab6ef0cc951aa4b13d75e1e8e') in 0,005668 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0,000032 seconds.
-  path: Assets/Tiles/BuildingObjects/MoedaVerde.asset
-  artifactKey: Guid(cc601bd449475b6cb8c1990211a1898f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/MoedaVerde.asset using Guid(cc601bd449475b6cb8c1990211a1898f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f24dd795025e60469a304ac44a559d2') in 0,004713 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13,018414 seconds.
-  path: Assets/Tiles/BuildingObjects/MoedaAzul.asset
-  artifactKey: Guid(6e7bc3b2b32b1f3fb81a5dd98f95fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/MoedaAzul.asset using Guid(6e7bc3b2b32b1f3fb81a5dd98f95fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892499cac46ebdc9cb054823fea495a3') in 0,005108 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 129,959977 seconds.
-  path: Assets/Resources/Scriptables/Buildables/Moeda/MoedaVerde 1.asset
-  artifactKey: Guid(7b6b65cee665014aaa018d87efd31cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Scriptables/Buildables/Moeda/MoedaVerde 1.asset using Guid(7b6b65cee665014aaa018d87efd31cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95db92fdb2ee647cae2fda09d4f6a72') in 0,005992 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6,097775 seconds.
-  path: Assets/Resources/Scriptables/Buildables/Moeda/MoedaAzul.asset
-  artifactKey: Guid(7b6b65cee665014aaa018d87efd31cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Scriptables/Buildables/Moeda/MoedaAzul.asset using Guid(7b6b65cee665014aaa018d87efd31cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976fb7320f4e9b409877edb4b05095a2') in 0,004125 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 125,400799 seconds.
-  path: Assets/Tiles/BuildingObjects/MoedaAzul.asset
-  artifactKey: Guid(6e7bc3b2b32b1f3fb81a5dd98f95fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/MoedaAzul.asset using Guid(6e7bc3b2b32b1f3fb81a5dd98f95fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e058622643dfd5adf8e5f53b622b14') in 0,002905 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,008317 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for LinuxStandalone target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 1,94 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,18 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2,455 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2456ms)
-		BeginReloadAssembly (249ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (78ms)
-		EndReloadAssembly (1892ms)
-			LoadAssemblies (147ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (605ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (110ms)
-			SetupLoadedEditorAssemblies (852ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (57ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (138ms)
-				ProcessInitializeOnLoadAttributes (558ms)
-				ProcessInitializeOnLoadMethodAttributes (82ms)
-				AfterProcessingInitializeOnLoad (13ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4,77 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,09 ms.
-Unloading 4503 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (101,3 KB). Loaded Objects now: 5014.
-Memory consumption went from 189,9 MB to 189,8 MB.
-Total: 8,423479 ms (FindLiveObjects: 0,440528 ms CreateObjectMapping: 0,252455 ms MarkObjects: 6,550198 ms  DeleteObjects: 1,177768 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 225,972570 seconds.
-  path: Assets/Tiles/BuildingObjects/GreenCoinSpriteSheet.png
-  artifactKey: Guid(ad0d9b4cd12be4ccda71514b7e73d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/GreenCoinSpriteSheet.png using Guid(ad0d9b4cd12be4ccda71514b7e73d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '663866c700119a4244ec65d139bfa6f4') in 0,276092 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7,058789 seconds.
-  path: Assets/Tiles/BuildingObjects/BlueCoinSpriteSheet.png
-  artifactKey: Guid(14c3f06066eb0c89aa6377381e772394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/BlueCoinSpriteSheet.png using Guid(14c3f06066eb0c89aa6377381e772394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1efcf07b81c6b823bd8eef7b1ed65e3') in 0,156660 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,013555 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for LinuxStandalone target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 1,55 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,12 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2,177 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2178ms)
-		BeginReloadAssembly (213ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (61ms)
-		EndReloadAssembly (1728ms)
-			LoadAssemblies (115ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (572ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (93ms)
-			SetupLoadedEditorAssemblies (774ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (41ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (131ms)
-				ProcessInitializeOnLoadAttributes (514ms)
-				ProcessInitializeOnLoadMethodAttributes (72ms)
-				AfterProcessingInitializeOnLoad (12ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4,18 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,09 ms.
-Unloading 4503 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (102,3 KB). Loaded Objects now: 5017.
-Memory consumption went from 189,9 MB to 189,8 MB.
-Total: 8,256753 ms (FindLiveObjects: 0,584300 ms CreateObjectMapping: 0,303164 ms MarkObjects: 5,842259 ms  DeleteObjects: 1,524305 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 43,452077 seconds.
-  path: Assets/Tiles/BuildingObjects/YellowCoinSpriteSheet.png
-  artifactKey: Guid(b37f67cfd790d54049c07513cad53d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiles/BuildingObjects/YellowCoinSpriteSheet.png using Guid(b37f67cfd790d54049c07513cad53d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6411f1d37c5da40aabd274f7139729ed') in 0,234383 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,008426 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for LinuxStandalone target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 1,41 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,12 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2,179 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2180ms)
-		BeginReloadAssembly (202ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (78ms)
-		EndReloadAssembly (1775ms)
-			LoadAssemblies (93ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (564ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (106ms)
-			SetupLoadedEditorAssemblies (787ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (46ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (131ms)
-				ProcessInitializeOnLoadAttributes (517ms)
-				ProcessInitializeOnLoadMethodAttributes (71ms)
-				AfterProcessingInitializeOnLoad (18ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (17ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4,26 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,09 ms.
-Unloading 4503 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (101,1 KB). Loaded Objects now: 5020.
-Memory consumption went from 189,9 MB to 189,8 MB.
-Total: 7,590245 ms (FindLiveObjects: 0,641592 ms CreateObjectMapping: 0,449929 ms MarkObjects: 5,929226 ms  DeleteObjects: 0,567089 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,009620 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for LinuxStandalone target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 1,36 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,12 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1,968 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1969ms)
-		BeginReloadAssembly (197ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (15ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (66ms)
-		EndReloadAssembly (1575ms)
-			LoadAssemblies (95ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (502ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (92ms)
-			SetupLoadedEditorAssemblies (716ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (37ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (122ms)
-				ProcessInitializeOnLoadAttributes (480ms)
-				ProcessInitializeOnLoadMethodAttributes (63ms)
-				AfterProcessingInitializeOnLoad (11ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3,81 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,09 ms.
-Unloading 4503 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (102,3 KB). Loaded Objects now: 5023.
-Memory consumption went from 189,9 MB to 189,8 MB.
-Total: 8,373938 ms (FindLiveObjects: 0,480537 ms CreateObjectMapping: 0,306538 ms MarkObjects: 6,783141 ms  DeleteObjects: 0,801509 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,013228 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for LinuxStandalone target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 1,32 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,12 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2,152 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2153ms)
-		BeginReloadAssembly (209ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (19ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (71ms)
-		EndReloadAssembly (1737ms)
-			LoadAssemblies (94ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (563ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (122ms)
-			SetupLoadedEditorAssemblies (746ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (45ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (127ms)
-				ProcessInitializeOnLoadAttributes (495ms)
-				ProcessInitializeOnLoadMethodAttributes (65ms)
-				AfterProcessingInitializeOnLoad (13ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3,99 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,16 ms.
-Unloading 4503 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (101,1 KB). Loaded Objects now: 5026.
-Memory consumption went from 189,9 MB to 189,8 MB.
-Total: 11,647995 ms (FindLiveObjects: 0,552964 ms CreateObjectMapping: 0,364282 ms MarkObjects: 8,440660 ms  DeleteObjects: 2,286921 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,009405 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /home/alkplima/Downloads/Projeto-IC-master/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for LinuxStandalone target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 1,29 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,30 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2,297 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2299ms)
-		BeginReloadAssembly (201ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (75ms)
-		EndReloadAssembly (1904ms)
-			LoadAssemblies (92ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (696ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (101ms)
-			SetupLoadedEditorAssemblies (796ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (45ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (138ms)
-				ProcessInitializeOnLoadAttributes (526ms)
-				ProcessInitializeOnLoadMethodAttributes (72ms)
-				AfterProcessingInitializeOnLoad (12ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4,56 ms, found 2 plugins.
-Preloading 1 native plugins for Editor in 0,09 ms.
-Unloading 4503 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (102,1 KB). Loaded Objects now: 5029.
-Memory consumption went from 189,9 MB to 189,8 MB.
-Total: 9,122105 ms (FindLiveObjects: 0,499267 ms CreateObjectMapping: 0,357917 ms MarkObjects: 6,217536 ms  DeleteObjects: 2,043847 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+Start importing Assets/Tiles/BuildingObjects/BlueCoinSpriteSheet.png using Guid(14c3f06066eb0c89aa6377381e772394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9819e3b44b2abbdec247ce61c0568115') in 0,136746 seconds 

@@ -114,14 +114,14 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"/home/alkplima/Downloads/Projeto-IC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll"
--r:"/home/alkplima/Downloads/Projeto-IC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll"
--r:"/home/alkplima/Downloads/Projeto-IC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
--r:"/home/alkplima/Downloads/Projeto-IC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll"
--r:"/home/alkplima/Downloads/Projeto-IC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.Unsafe.dll"
--r:"/home/alkplima/Downloads/Projeto-IC/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
--r:"/home/alkplima/Downloads/Projeto-IC/Packages/com.github.homuler.mediapipe/Runtime/Plugins/Protobuf/Google.Protobuf.dll"
--r:"/home/alkplima/Downloads/Projeto-IC/Packages/com.github.homuler.mediapipe/Runtime/Plugins/Protobuf/System.Runtime.CompilerServices.Unsafe.dll"
+-r:"/home/alkplima/Documents/Unity Projects/ProjetoIC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll"
+-r:"/home/alkplima/Documents/Unity Projects/ProjetoIC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll"
+-r:"/home/alkplima/Documents/Unity Projects/ProjetoIC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
+-r:"/home/alkplima/Documents/Unity Projects/ProjetoIC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll"
+-r:"/home/alkplima/Documents/Unity Projects/ProjetoIC/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.Unsafe.dll"
+-r:"/home/alkplima/Documents/Unity Projects/ProjetoIC/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"/home/alkplima/Documents/Unity Projects/ProjetoIC/Packages/com.github.homuler.mediapipe/Runtime/Plugins/Protobuf/Google.Protobuf.dll"
+-r:"/home/alkplima/Documents/Unity Projects/ProjetoIC/Packages/com.github.homuler.mediapipe/Runtime/Plugins/Protobuf/System.Runtime.CompilerServices.Unsafe.dll"
 -r:"/home/alkplima/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"/home/alkplima/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"/home/alkplima/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
