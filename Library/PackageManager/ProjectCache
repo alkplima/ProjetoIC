@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638204722300000000
+      ticks: 638206418200000000
     m_Hash: 2276092302
   m_LockFileStatus:
     m_FilePath: /home/alkplima/Documents/Unity Projects/ProjetoIC/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638204800490000000
+      ticks: 638206418200000000
     m_Hash: 2541527644
 m_EmbeddedPackageManifests:
   m_ManifestsStatus:
@@ -23,7 +23,7 @@ m_EmbeddedPackageManifests:
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 638204720740000000
+        ticks: 638206418200000000
       m_Hash: 925954558
 m_LocalPackages:
   m_LocalFileStatus: []
