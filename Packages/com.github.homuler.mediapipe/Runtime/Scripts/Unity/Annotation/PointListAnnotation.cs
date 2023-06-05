@@ -24,7 +24,7 @@ namespace Mediapipe.Unity
     [SerializeField] private Color _color2 = new Color(0.9f, 0.4f, 0.6f, 0.3f);
 
     private GameObject _bracelet;
-    private GameObject _handCircle;
+    private GameObject _handGear;
 
 // #if UNITY_EDITOR
 //     private void OnValidate()
@@ -137,8 +137,8 @@ namespace Mediapipe.Unity
         Vector3 midPoint = children[9].transform.position;
         Vector3 newPosition = midPoint;
         newPosition.z = 0f;
-        _handCircle = GameObject.Find("handCircle");
-        _handCircle.transform.position = new Vector3(newPosition.x/10,newPosition.y/10,0);
+        _handGear = GameObject.Find("HandGear");
+        _handGear.transform.position = new Vector3(newPosition.x/10,newPosition.y/10,0);
       }
     }
     

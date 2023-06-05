@@ -135,4 +135,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinPointsImage: {fileID: 4841231129036003665, guid: 1fe25515753ec0bbd8cd0499538ad41c, type: 3}
-  _clip: {fileID: 8300000, guid: f4a539c5b95e7a1d2913da3b0992e509, type: 3}
+  _clip: {fileID: 8300000, guid: 733fa9c15569a5c9ca5263c123492365, type: 3}

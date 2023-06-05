@@ -51,7 +51,6 @@
      <Compile Include="Assets/MediaPipeUnity/Samples/Common/Scripts/ImageSource/StaticImageSource.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/SolutionMenu.cs" />
      <Compile Include="Assets/Scripts/BuilderScreen/ToolController.cs" />
-     <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/HandCircle.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/Common/Scripts/ImageSourceSolution.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/Common/Scripts/ImageSource/ImageSource.cs" />
      <Compile Include="Assets/Scripts/LoadGame.cs" />
@@ -105,6 +104,11 @@
      <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/GlobalConfig.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/Common/Scripts/GraphRunner.cs" />
      <Compile Include="Assets/Scripts/BuilderScreen/SaveHandler.cs" />
+     <Compile Include="Assets/Dark Singularity/Core Scripts/SingularityPullable.cs" />
+     <Compile Include="Assets/Dark Singularity/Core Scripts/SingularityCore.cs" />
+     <Compile Include="Assets/Dark Singularity/Core Scripts/Singularity.cs" />
+     <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/HandGear.cs" />
+     <Compile Include="Assets/Scripts/CalibrationScreen/CalibrationCoin.cs" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets/Sprites/platformer-extendedtiles-0/PNG Cake/Spritesheet/sheet.xml" />

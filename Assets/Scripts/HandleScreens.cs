@@ -54,7 +54,7 @@ public class HandleScreens : MonoBehaviour
 
         // Câmeras
         mainCamera.SetActive(true);
-        ColorUtility.TryParseHtmlString("#B3C834", out colorFromHex);
+        ColorUtility.TryParseHtmlString("#ECECEC", out colorFromHex);
         mainCamera.GetComponent<Camera>().backgroundColor = colorFromHex;
         builderScreenCamera.SetActive(false);
 
