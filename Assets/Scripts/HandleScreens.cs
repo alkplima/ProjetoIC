@@ -29,10 +29,15 @@ public class HandleScreens : MonoBehaviour
     public GameObject calibrationScreenManager;
     public GameObject builderScreenManager;
 
+    private void Start() {
+        InitialScreen();
+    }
+
     public void InitialScreen () {
+
         // Câmeras
         mainCamera.SetActive(true);
-        ColorUtility.TryParseHtmlString("#63A3CC", out colorFromHex);
+        ColorUtility.TryParseHtmlString("#C0A875", out colorFromHex);
         mainCamera.GetComponent<Camera>().backgroundColor = colorFromHex;
         builderScreenCamera.SetActive(false);
 
@@ -43,20 +48,18 @@ public class HandleScreens : MonoBehaviour
         builderScreen.SetActive(false);
 
         // Elementos
-        calibrationScreenManager.SetActive(true);
-        calibrationDoneBtn.SetActive(true);
+        calibrationScreenManager.SetActive(false);
+        calibrationDoneBtn.SetActive(false);
         builderScreenManager.SetActive(false);
     }
 
     public void GameScreen () {
-        MainCanvas.SetActive(true);
-        Solution.SetActive(true);
 
         // Câmeras
+        builderScreenCamera.SetActive(false);
         mainCamera.SetActive(true);
         ColorUtility.TryParseHtmlString("#ECECEC", out colorFromHex);
         mainCamera.GetComponent<Camera>().backgroundColor = colorFromHex;
-        builderScreenCamera.SetActive(false);
 
         // Telas
         gameScreen.SetActive(true);
@@ -68,6 +71,9 @@ public class HandleScreens : MonoBehaviour
         calibrationScreenManager.SetActive(false);
         calibrationDoneBtn.SetActive(false);
         builderScreenManager.SetActive(false);
+
+        MainCanvas.SetActive(true);
+        Solution.SetActive(true);
     }
 
     public void CalibrationScreen () {
@@ -97,8 +103,8 @@ public class HandleScreens : MonoBehaviour
         // Câmeras
         builderScreenCamera.SetActive(true);
         mainCamera.SetActive(false);
-
         builderScreenManager.SetActive(true);
+
         // Telas
         gameScreen.SetActive(false);
         initialScreen.SetActive(false);

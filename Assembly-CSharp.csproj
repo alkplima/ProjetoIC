@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets/Dark Singularity/Core Scripts/Singularity.cs" />
      <Compile Include="Assets/Scripts/BuilderScreen/BuildingObjectBase.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/Common/Scripts/ImageSourceProvider.cs" />
      <Compile Include="Assets/LeanTween/Framework/LeanTween.cs" />
@@ -75,6 +76,7 @@
      <Compile Include="Assets/MediaPipeUnity/Samples/Common/Scripts/InferenceMode.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/Common/Scripts/ImageSource/WebCamSource.cs" />
      <Compile Include="Assets/Scripts/CalibrationScreen/InitiateCoins.cs" />
+     <Compile Include="Assets/Dark Singularity/Core Scripts/SingularityPullable.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/Common/Scripts/Solution.cs" />
      <Compile Include="Assets/LeanTween/Framework/LeanAudio.cs" />
      <Compile Include="Assets/Scripts/ScoreHUD.cs" />
@@ -85,6 +87,7 @@
      <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/GUIConsole.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/ModalButton.cs" />
      <Compile Include="Assets/Scripts/ClockCounter.cs" />
+     <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/HandGear.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/ImageSourceConfig.cs" />
      <Compile Include="Assets/LeanTween/Framework/LeanSmooth.cs" />
      <Compile Include="Assets/Scripts/BuilderScreen/DrawRect.cs" />
@@ -95,6 +98,7 @@
      <Compile Include="Assets/Scripts/BuilderScreen/Singleton.cs" />
      <Compile Include="Assets/LeanTween/Framework/LeanTest.cs" />
      <Compile Include="Assets/Scripts/BuilderScreen/BuildingHUD.cs" />
+     <Compile Include="Assets/Dark Singularity/Core Scripts/SingularityCore.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/ModalContents.cs" />
      <Compile Include="Assets/Scripts/Diamond.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/LogLine.cs" />
@@ -103,12 +107,8 @@
      <Compile Include="Assets/Scripts/Square.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/GlobalConfig.cs" />
      <Compile Include="Assets/MediaPipeUnity/Samples/Common/Scripts/GraphRunner.cs" />
-     <Compile Include="Assets/Scripts/BuilderScreen/SaveHandler.cs" />
-     <Compile Include="Assets/Dark Singularity/Core Scripts/SingularityPullable.cs" />
-     <Compile Include="Assets/Dark Singularity/Core Scripts/SingularityCore.cs" />
-     <Compile Include="Assets/Dark Singularity/Core Scripts/Singularity.cs" />
-     <Compile Include="Assets/MediaPipeUnity/Samples/UI/Scripts/HandGear.cs" />
      <Compile Include="Assets/Scripts/CalibrationScreen/CalibrationCoin.cs" />
+     <Compile Include="Assets/Scripts/BuilderScreen/SaveHandler.cs" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets/Sprites/platformer-extendedtiles-0/PNG Cake/Spritesheet/sheet.xml" />

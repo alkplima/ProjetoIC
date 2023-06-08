@@ -112,29 +112,28 @@ public class LoadGame : Singleton<SaveHandler> {
                     if (guidToTileBase.ContainsKey(tile.guidForBuildable)) {
                         map.SetTile(tile.position, guidToTileBase[tile.guidForBuildable]);
                         Debug.Log("Tipo de Tile: "+guidToTileBase[tile.guidForBuildable].ToString());
-
                         switch (guidToTileBase[tile.guidForBuildable].ToString())
                         {
                             case "Moeda (UnityEngine.Tilemaps.AnimatedTile)":
-                                Instantiate(MoedaAmarela, tile.position, Quaternion.identity);
+                                GenerateTilemapElementsFromFile(MoedaAmarela, tile.position);
                                 break;
                             case "MoedaVerde (UnityEngine.Tilemaps.AnimatedTile)":
-                                Instantiate(MoedaVerde, tile.position, Quaternion.identity);
+                                GenerateTilemapElementsFromFile(MoedaVerde, tile.position);
                                 break;
                             case "MoedaAzul (UnityEngine.Tilemaps.AnimatedTile)":
-                                Instantiate(MoedaAzul, tile.position, Quaternion.identity);
+                                GenerateTilemapElementsFromFile(MoedaAzul, tile.position);
                                 break;
                             case "Tiles_0 (UnityEngine.Tilemaps.Tile)":
-                                Instantiate(ParedeCinza, tile.position, Quaternion.identity);
+                                GenerateTilemapElementsFromFile(ParedeCinza, tile.position);
                                 break;
                             case "Tiles_2 (UnityEngine.Tilemaps.Tile)":
-                                Instantiate(ParedeAmarela, tile.position, Quaternion.identity);
+                                GenerateTilemapElementsFromFile(ParedeAmarela, tile.position);
                                 break;
                             case "Start (UnityEngine.Tilemaps.Tile)":
-                                Instantiate(Inicio, tile.position, Quaternion.identity);
+                                GenerateTilemapElementsFromFile(Inicio, tile.position);
                                 break;
                             case "Finish (UnityEngine.Tilemaps.Tile)":
-                                Instantiate(Fim, tile.position, Quaternion.identity);
+                                GenerateTilemapElementsFromFile(Fim, tile.position);
                                 break;
                         }
                     } else {
@@ -144,6 +143,11 @@ public class LoadGame : Singleton<SaveHandler> {
                 }
             }
         }
+    }
+
+    public void GenerateTilemapElementsFromFile(GameObject tile, Vector3Int position) {
+        var element = Instantiate(tile, position, Quaternion.identity);
+        element.transform.parent = GameObject.Find("GameScreen").transform;
     }
 }
 

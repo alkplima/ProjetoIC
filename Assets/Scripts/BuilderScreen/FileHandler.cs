@@ -61,6 +61,9 @@ public static class FileHandler {
         using (StreamWriter writer = new StreamWriter (fileStream))
         {
             writer.Write (content);
+            #if UNITY_WEBGL
+                Application.ExternalEval("FS.syncfs(false, function (err) {})");
+            #endif
         }
     }
 
